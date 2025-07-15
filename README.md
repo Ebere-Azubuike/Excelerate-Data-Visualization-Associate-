@@ -74,3 +74,10 @@ Internship opportunities were the most preferred, with 7,966 entries recorded.
 
 # Data Visualization and Presentation
 The summary of findings where later visualized on Google Looker Studio and presentations were summarized on powerpoint slides
+<img width="1051" height="525" alt="image" src="https://github.com/user-attachments/assets/81959d41-274d-44c4-854c-b42b2f82f017" />
+<img width="971" height="531" alt="image" src="https://github.com/user-attachments/assets/e2b18587-cbf1-42bc-94b9-e6a50c2f47a3" />
+<img width="992" height="503" alt="image" src="https://github.com/user-attachments/assets/9fd3b7bd-89f0-4bda-b09f-d5a842ded273" />
+
+Click the link to view the dashboard on Looker Studio
+https://lookerstudio.google.com/reporting/eb837f14-fa1e-4939-a8cc-3e0cf3a0aafe/page/p_m6vasm
+9zdd
