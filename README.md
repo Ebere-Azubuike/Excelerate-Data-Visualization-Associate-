@@ -55,3 +55,18 @@ One-hot encoding transforms categorical variables into a binary format suitable 
 One-hot encoding was performed for the "Gender" column, creating separate columns for "Male" and "Female." 
 <img width="972" height="862" alt="image" src="https://github.com/user-attachments/assets/288eb889-83c4-46b7-98cc-b6634e40f080" />
 
+# Comparative Analysis of User Demographics
+Comparative analysis reveals demographic differences and trends among user groups. ​
+
+<img width="1065" height="617" alt="image" src="https://github.com/user-attachments/assets/8a2ac80c-3072-4fdf-9755-71ae4a4dd480" />
+The user base spans 170 countries, with India, Nigeria, USA, Pakistan, and Ghana having the highest frequencies.
+
+<img width="1063" height="661" alt="image" src="https://github.com/user-attachments/assets/9b062ee2-8828-43be-9607-5e3a6323d783" />
+Graduate program students had the highest completion rates for opportunities. ​
+
+
+<img width="1085" height="625" alt="image" src="https://github.com/user-attachments/assets/99463feb-dae3-448a-bce1-ffd172817235" />
+Internship opportunities were the most preferred, with 7,966 entries recorded.
+
+# Data Visualization and Presentation
+The summary of findings where later visualized on Google Looker Studio and presentations were summarized on powerpoint slides
